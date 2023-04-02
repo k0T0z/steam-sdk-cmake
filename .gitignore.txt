@@ -1,6 +1,0 @@
-/redistributable_bin/*
-/public/*
-/.vscode/*
-/.vs/*
-/.build/*
-/out/*
